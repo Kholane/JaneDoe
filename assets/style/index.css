@@ -93,6 +93,17 @@ body{
     padding-left: 35px; 
  }
 
+ .services .service:hover{   
+    box-shadow: none;
+    background-color: #BF0A30; 
+    color:white;
+    cursor: pointer;
+ }
+
+  .service:hover i{    
+    color:white;
+ }
+
  .image {
     border: 2px solid #fff;
     width: 100%;
